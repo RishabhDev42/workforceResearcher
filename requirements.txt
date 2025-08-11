@@ -1,2 +1,4 @@
 fastapi
 uvicorn
+slack_bolt
+dotenv
