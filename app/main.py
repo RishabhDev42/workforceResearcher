@@ -4,6 +4,7 @@ from slack_bolt.adapter.fastapi import SlackRequestHandler
 import os
 from dotenv import load_dotenv
 import logging
+
 logging.basicConfig(level=logging.DEBUG)
 
 load_dotenv()
