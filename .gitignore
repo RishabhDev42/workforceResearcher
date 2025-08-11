@@ -1,0 +1,21 @@
+# Exclude .env file
+.env
+
+# Exclude PyCharm project files
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
