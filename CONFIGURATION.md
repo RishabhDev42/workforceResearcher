@@ -66,20 +66,29 @@ Start Ngrok to expose the local server:
 ```bash
 ngrok http 8000
 ```
-Copy the public URL provided by Ngrok and configure it in your Slack app.
 
----
+[//]: # ([//]: # &#40;Copy the public URL provided by Ngrok and configure it in your Slack app.&#41;)
+[//]: # ()
+[//]: # (---)
 
-## Slack App Configuration
+[//]: # ()
+[//]: # (## Slack App Configuration)
 
-1. Go to your Slack app's settings.
-2. Set the **Request URL** for events to:
-   ```
-   <ngrok_url>/slack/events
-   ```
-3. Enable the necessary event subscriptions and bot permissions.
+[//]: # ()
+[//]: # (1. Go to your Slack app's settings.)
 
----
+[//]: # (2. Set the **Request URL** for events to:)
+
+[//]: # (   ```)
+
+[//]: # (   <ngrok_url>/slack/events)
+
+[//]: # (   ```)
+
+[//]: # (3. Enable the necessary event subscriptions and bot permissions.)
+
+[//]: # ()
+[//]: # (---)
 
 ## Testing
 
