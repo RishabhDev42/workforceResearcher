@@ -3,3 +3,5 @@ uvicorn
 slack_bolt
 dotenv
 pymongo
+numpy
+openai

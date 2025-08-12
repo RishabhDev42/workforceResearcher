@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import logging
 
 from app.db import save_message
+from app.nlp import is_ai_related
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -19,8 +20,8 @@ slack_app = App(
 @slack_app.event("message")
 def handle_message_events(event, say):
     text = event.get("text", "")
-    if "AI" in text:
-        say(f"I detected AI in your message: '{text}'")
+    if is_ai_related(text):
+        say(f":eyes: '{text}'")
         save_message(event.get("text",""))
 
 slack_handler = SlackRequestHandler(slack_app)
