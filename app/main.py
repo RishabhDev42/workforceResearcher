@@ -5,6 +5,8 @@ import os
 from dotenv import load_dotenv
 import logging
 
+from app.db import save_message
+
 logging.basicConfig(level=logging.DEBUG)
 
 load_dotenv()
@@ -19,6 +21,7 @@ def handle_message_events(event, say):
     text = event.get("text", "")
     if "AI" in text:
         say(f"I detected AI in your message: '{text}'")
+        save_message(event.get("text",""))
 
 slack_handler = SlackRequestHandler(slack_app)
 
