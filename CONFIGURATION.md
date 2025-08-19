@@ -53,42 +53,54 @@ Ensure `.env` is listed in `.gitignore` to prevent committing sensitive informat
 
 ---
 
-## Running the Application
-
-### 1. Start the FastAPI Server
-Run the application using Uvicorn:
-```bash
-uvicorn app.main:app --reload
-```
-
-### 2. Expose the Server with Ngrok
-Start Ngrok to expose the local server:
-```bash
-ngrok http 8000
-```
-
-[//]: # ([//]: # &#40;Copy the public URL provided by Ngrok and configure it in your Slack app.&#41;)
 [//]: # ()
-[//]: # (---)
+[//]: # (## Running the Application)
 
 [//]: # ()
-[//]: # (## Slack App Configuration)
+[//]: # (### 1. Start the FastAPI Server)
+
+[//]: # (Run the application using Uvicorn:)
+
+[//]: # (```bash)
+
+[//]: # (uvicorn app.main:app --reload)
+
+[//]: # (```)
 
 [//]: # ()
-[//]: # (1. Go to your Slack app's settings.)
+[//]: # (### 2. Expose the Server with Ngrok)
 
-[//]: # (2. Set the **Request URL** for events to:)
+[//]: # (Start Ngrok to expose the local server:)
 
-[//]: # (   ```)
+[//]: # (```bash)
 
-[//]: # (   <ngrok_url>/slack/events)
+[//]: # (ngrok http 8000)
 
-[//]: # (   ```)
-
-[//]: # (3. Enable the necessary event subscriptions and bot permissions.)
+[//]: # (```)
 
 [//]: # ()
-[//]: # (---)
+[//]: # ([//]: # &#40;[//]: # &#40;Copy the public URL provided by Ngrok and configure it in your Slack app.&#41;&#41;)
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;---&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;## Slack App Configuration&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;1. Go to your Slack app's settings.&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;2. Set the **Request URL** for events to:&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;   ```&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;   <ngrok_url>/slack/events&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;   ```&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;3. Enable the necessary event subscriptions and bot permissions.&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;---&#41;)
 
 ## Testing
 
