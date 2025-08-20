@@ -37,7 +37,7 @@ pip install -r requirements.txt
 streamlit run Home.py
 ```
 
-## 📁 Structure
+## Structure
 ```
 text-sentiment-dashboard/
 ├─ Home.py
@@ -51,7 +51,7 @@ text-sentiment-dashboard/
    └─ (CSVs go here)
 ```
 
-## 🔧 Notes
+## Notes
 - If your filenames differ, you can change them in `_utils.py`.
 - The app uses **matplotlib** for simple charts and **Streamlit** tables/filtering.
 - All plots are intentionally minimal to keep the skeleton clean.
