@@ -1,4 +1,0 @@
-sentiment_label,n,avg_words,med_words,avg_chars,med_chars
-negative,9,9.11,8.0,46.11,39.0
-neutral,19,8.47,9.0,48.89,49.0
-positive,22,11.27,9.0,63.77,51.5
