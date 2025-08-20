@@ -148,8 +148,8 @@ Add these values to your `.env` file as shown in Step 4.
 
 ### 8. View the Dashboard
 
-- Move the generated CSV files into the `text-sentiment-dashboard/data` folder.
-- In the Command Prompt, navigate to the `text-sentiment-dashboard` folder.
+- Move the generated CSV files into the `dashboard/data` folder.
+- In the Command Prompt, navigate to the `dashboard` folder.
 - Run:
   ```
   streamlit run Home.py
