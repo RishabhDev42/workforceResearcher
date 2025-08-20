@@ -1,0 +1,51 @@
+text,created_at,clean_text,sentiment_score,sentiment_label,topic_id,reaction_count
+AI me daalo mongo,,ai me daalo mongo,0.0,neutral,0,0
+"Bro, I feel like this automation thingy is really making my job tough",,bro i feel like this automation thingy is really making my job tough,0.25,positive,1,0
+You know what? I feel like I might loose my job if we continue down this path of technology replacing everything,,you know what i feel like i might loose my job if we continue down this path of technology replacing everything,0.0516,positive,1,0
+"Hey, I feel like with the increasing amount of modernisation, I might loose my job. Like everything is being done by technology these days.",,hey i feel like with the increasing amount of modernisation i might loose my job like everything is being done by technology these days,0.4019,positive,1,0
+You know what? I feel like I might loose my job if we continue down this path of technology replacing everything,,you know what i feel like i might loose my job if we continue down this path of technology replacing everything,0.0516,positive,1,0
+"Like frikkin hell, I feel like my job will be gone within some time given how rapidly tech is advancing",,like frikkin hell i feel like my job will be gone within some time given how rapidly tech is advancing,-0.1531,negative,1,0
+You know what? I feel like I might loose my job if we continue down this path of technology replacing everything,,you know what i feel like i might loose my job if we continue down this path of technology replacing everything,0.0516,positive,1,0
+Bro I used chatgpt for everything in my last assignment,,bro i used chatgpt for everything in my last assignment,0.0,neutral,2,0
+"Dude, gemini is so much better than chatGPT",,dude gemini is so much better than chatgpt,0.4902,positive,2,0
+DO you think cursor is a better coder than real people?,,do you think cursor is a better coder than real people,0.4404,positive,2,0
+All AI is crappy,,all ai is crappy,-0.5574,negative,0,0
+AI is great!!,,ai is great,0.6249,positive,0,0
+Is AI really that hreat? I am on thE fence,,is ai really that hreat i am on the fence,0.0,neutral,0,0
+ChatGPT sometimes give wrong code and wrong answers,,chatgpt sometimes give wrong code and wrong answers,-0.7351,negative,2,0
+AI might be difficult for old people,,ai might be difficult for old people,-0.3612,negative,0,0
+We should budget for Python + AI upskilling,,we should budget for python ai upskilling,0.0,neutral,0,0
+Perplexity is clutch for citations; ChatGPT for drafts.,,perplexity is clutch for citations chatgpt for drafts,0.0,neutral,2,0
+RAG AI search found the exact policy in seconds,,rag ai search found the exact policy in seconds,0.0,neutral,0,0
+AI code suggestions helped me ship the feature today.,,ai code suggestions helped me ship the feature today,0.0,neutral,0,0
+Proposal boilerplates are now one chatGPT prompt away,,proposal boilerplates are now one chatgpt prompt away,0.0,neutral,2,0
+AI helped outline the client memo in 5 mins.,,ai helped outline the client memo in 5 mins,0.0,neutral,4,0
+Feels like the AI bots do 80% of what I do now.,,feels like the ai bots do 80 of what i do now,0.3612,positive,0,0
+The AI bot flagged duplicate recommendations early,,the ai bot flagged duplicate recommendations early,0.0,neutral,3,0
+Low-key worried AI might replace my role.,,low key worried ai might replace my role,-0.5106,negative,0,0
+Taking an Artificial Intelligence prompt engineering course this weekend.,,taking an artificial intelligence prompt engineering course this weekend,0.4767,positive,2,0
+Auto-summarizing AI bot transcripts is a lifesaver.,,auto summarizing ai bot transcripts is a lifesaver,0.5859,positive,3,0
+AI helped outline the client memo in 5 mins.,,ai helped outline the client memo in 5 mins,0.0,neutral,4,0
+Copilot auto-completed the boilerplate perfectly.,,copilot auto completed the boilerplate perfectly,0.6369,positive,3,0
+Using ChatGPT cut my docs time in half.,,using chatgpt cut my docs time in half,-0.2732,negative,2,0
+Can the bot tag messages as AI-related automatically?,,can the bot tag messages as ai related automatically,0.0,neutral,3,0
+That  AI agent was low-key fire,,that ai agent was low key fire,-0.5423,negative,0,0
+Claude feels safer for customer emails.,,claude feels safer for customer emails,0.4215,positive,2,0
+Gemini is better for long research; ChatGPT is better for coding.,,gemini is better for long research chatgpt is better for coding,0.7003,positive,2,0
+AI helped outline the client memo in 5 mins,,ai helped outline the client memo in 5 mins,0.0,neutral,4,0
+Can the bot tag messages as AI-related automatically?,,can the bot tag messages as ai related automatically,0.0,neutral,3,0
+"Bro, AI just saved my code fr.",,bro ai just saved my code fr,0.4215,positive,0,0
+Proposal AI boilerplates are now one prompt away.,,proposal ai boilerplates are now one prompt away,0.0,neutral,0,0
+We need a clear policy for AI-assisted assignments.,,we need a clear policy for ai assisted assignments,0.3818,positive,0,0
+GenAI cleaned merchant strings way better than rules,,genai cleaned merchant strings way better than rules,0.4404,positive,2,0
+We need a clear policy for AI-assisted code.,,we need a clear policy for ai assisted code,0.3818,positive,0,0
+Can the bot tag messages as AI-related automatically?,,can the bot tag messages as ai related automatically,0.0,neutral,3,0
+GenAI is sometimes way better than human creativity,,genai is sometimes way better than human creativity,0.6705,positive,2,0
+Drafting a governance checklist for genAI pilots.,,drafting a governance checklist for genai pilots,0.0,neutral,2,0
+"Claude is better at coding, ChatGPT is better for writing drafts and Gemini is good for nothing",,claude is better at coding chatgpt is better for writing drafts and gemini is good for nothing,0.8271,positive,2,0
+Gemini AI is annoying for writing code,,gemini ai is annoying for writing code,-0.4019,negative,2,0
+Hope these AI bots doesn't take away jobs,,hope these ai bots doesn't take away jobs,0.4404,positive,0,0
+Artificial Intelligence is sometimes good and sometimes bad.,,artificial intelligence is sometimes good and sometimes bad,0.3612,positive,2,0
+"We need to stop using this AI, or else our brains won't work",,we need to stop using this ai or else our brains won't work,-0.296,negative,0,0
+There have been millions of investments in AI; we need to upskill ourselves in learning these technologies,,there have been millions of investments in ai we need to upskill ourselves in learning these technologies,0.0,neutral,0,0
+Finalllyyy byeeee AI,,finalllyyy byeeee ai,0.0,neutral,0,0
