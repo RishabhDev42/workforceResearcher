@@ -143,13 +143,13 @@ Add these values to your `.env` file as shown in Step 4.
 
 ### 7. Analyze the Data
 
-- Open the Jupyter Notebook at `analysis/Text Analysis SlackBot Application.ipynb`.
+- Open the Jupyter Notebook at `Text Analysis/Text_Analysis_SlackBot_Application.ipynb`.
 - Run all cells to generate CSV files with the analysis results.
 
 ### 8. View the Dashboard
 
-- Move the generated CSV files into the `dashboard/data` folder.
-- In the Command Prompt, navigate to the `dashboard` folder.
+- Move the generated CSV files into the `app/dashboard/data` folder.
+- In the Command Prompt, navigate to the `app/dashboard` folder.
 - Run:
   ```
   streamlit run Home.py
