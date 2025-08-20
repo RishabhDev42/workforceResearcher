@@ -20,5 +20,6 @@ A Python-based Slack bot that detects and analyzes conversations about technolog
 ## Setup
 
 1. **Clone the repository**
-3. **Set up environment variables**
-4. **Go through CONFIGURATION.md for detailed setup instructions**
+2. **Set up environment variables**
+3. **Go through CONFIGURATION.md for detailed setup instructions**
+4. **Alternatively follow the HOW_TO_USE.md guide for in-depth setup instructions for a non-technical audience**
