@@ -19,3 +19,6 @@ venv/
 
 # Logs
 *.log
+
+# Ignore dashboard datasets
+app/dashboard/data/
