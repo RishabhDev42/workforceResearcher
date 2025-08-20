@@ -22,3 +22,4 @@ venv/
 
 # Ignore dashboard datasets
 app/dashboard/data/
+app/dashboard/data/**
